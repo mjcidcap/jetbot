@@ -1,6 +1,6 @@
 Link to picture: https://github.com/nvidia-ai-iot/jetbot/issues/113#issuecomment-523903130
 
-Hi TickPi, I have a question for you. I'm taking an MIT Open Courseware, Intro to [Computer Science and Electrical Engineering](https://ocw.mit.edu/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/) class. 
+Hi @TickPi, I have a question for you. I'm taking an MIT Open Courseware, Intro to [Computer Science and Electrical Engineering](https://ocw.mit.edu/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/) class. 
 
 In that class, they use the Pioneer Robot Platform with Soar simulation software to allow the students to program the robot in python. Goal is / by the end of the class you're racing your autonomous robot. 
 
